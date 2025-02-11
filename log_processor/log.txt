@@ -1,0 +1,6 @@
+2023-10-28 12:00:01 - INFO - User logged in  
+2023-10-28 12:00:03 - ERROR - Database connection failed  
+2023-10-28 12:00:04 - DEBUG - Cache hit for request  
+2023-10-28 12:00:05 - INFO - User logged out  
+2023-10-28 12:00:07 - ERROR - Timeout reached while processing  
+2023-10-28 12:00:08 - INFO - User logged in
